@@ -27,9 +27,9 @@ Model was qualitatively evaluated by visually comparing the resulting class maps
 author = {Mohammed Q. Alkhatib},
 title = {ConvViTMamba: efficient multiscale convolution, Transformer, and Mamba-based sequence modelling for hyperspectral image classification},
 journal = {International Journal of Remote Sensing},
-volume = {0},
-number = {0},
-pages = {1--40},
+volume = {47},
+number = {12},
+pages = {5154--5193},
 year = {2026},
 publisher = {Taylor \& Francis},
 doi = {10.1080/01431161.2026.2663567}}
